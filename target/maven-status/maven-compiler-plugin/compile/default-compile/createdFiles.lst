@@ -1,0 +1,10 @@
+com\Rmgyantra\genericUtils\DataBaseUtilities.class
+com\Rmgyantra\genericUtils\JsonUTility.class
+com\Rmgyantra\scripts\AddSingleProjectWithCreated.class
+com\Rmgyantra\pojoclass\RmgProject.class
+com\Rmgyantra\genericUtils\EndPoints.class
+com\Rmgyantra\scripts\CreateMultipleProjects.class
+com\Rmgyantra\genericUtils\JavaUtils.class
+com\Rmgyantra\genericUtils\IConstants.class
+com\Rmgyantra\genericUtils\BaseApiClass.class
+com\Rmgyantra\scripts\AddProjectWitONGoingStatus.class
